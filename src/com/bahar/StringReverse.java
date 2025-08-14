@@ -1,7 +1,10 @@
-package com.company;
+package com.bahar;
 
 import java.util.Stack;
-
+/**
+ * @author bahareh
+ * @date 2025.08.14
+ */
 public class StringReverse {
 
     public String reverse(String input) {

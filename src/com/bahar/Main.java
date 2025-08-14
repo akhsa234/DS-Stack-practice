@@ -1,4 +1,4 @@
-package com.company;
+package com.bahar;
 
 public class Main {
 
@@ -7,7 +7,7 @@ public class Main {
     String str2 = "";
     String str4= null;
     StringReverse reverse =new StringReverse();
-    String result =reverse.reverse(str4);
+    String result =reverse.reverse(str2);
         System.out.println(result);
     }
 }
